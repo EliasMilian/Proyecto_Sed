@@ -5,8 +5,8 @@
 $DB_HOST = 'localhost';
 $DB_NAME = 'centroescolarbd';
 
-$DB_USER = 'root';
-$DB_PASS = '';
+$DB_USER = 'notasuser';
+$DB_PASS = '#YHLQMDLG2025SedContraseniaSegura';
 
 try {
     $conn = new PDO(
